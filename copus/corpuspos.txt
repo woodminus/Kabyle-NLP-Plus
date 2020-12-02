@@ -8427,4 +8427,443 @@ amek/ADV ara/PRPT qableɣ/VPA timsal/NMC ?/?
 amek/ADV armi/PRP i/PRL k-/PRA mazal/VP da/CS ?/?
 anamek/ADV n/PP usefru/NMC ilelli/VP ./.
 anda/ADV i/PRL tettɛic/VP setti/NMC -k/PAN ?/?
-angela/ADV mačči/CS d/PREAL aneǧlus/N
+angela/ADV mačči/CS d/PREAL aneǧlus/NMC ./.
+anida/ADV tellam/VP a/PLP tarwa/NMC -w/PAN ?/?
+anwa/INT ara/PRPT iɛawnen/VP wayeḍ/PRI ?/?
+anwa/INT d/PREAL amdakel/NMC n/PP marie/NMC ?/?
+anwa/INT i/PRL yebɣan/VP timunent/NMC ?/?
+aqjun/ADV iẓerr/ADV deg/PRP tillas/NMC ./.
+aqjun/ADV -a/PADV yeshewhiw/VP aṭas/ADV ./.
+aql/VP -i/PAP rfiɣ/VP ciṭ/ADV fell/PRP -ak/PAP ./.
+ar/PRP wanda/ADV i/PRL tent-/PPV tefkiḍ/VP ?/?
+asafag/ADV atan/PRD yettrusu/VAIT -d/PDS ./.
+asɣar/ADJ iḥeḍmen/VP ittifsus/VP ./.
+ass/NMC -agi/PAN d/PREAL ass/NMC n/PP tlelli/NMC ./.
+atan/PRD yettrusu/VAIT -d/PDS usafag/NMC ./.
+atas/ADV i/PRP yettawi/VAIT n/PP wakud/ADV ./.
+aṭas/ADV segmi/PRP lliɣ/VP da/CS ./.
+atḥa/ADV yeḍleb/VP -d/PDS tasiregt/NMC ./.
+awer/ADV ifuṛ/ADV ,/, awer/ADV yeṛdem/VP !/!
+axeddam/ADV s/PRP lxuf/NMC iheddeṛ/VP ./.
+axxam/NMC yeččur/VP d/PREAL isɣaren/VP ./.
+ay/PLP cebḥent/ADV tjeǧǧigin/NMC -a/PAN !/!
+ayen/PRI i/PRL d-/PDP tenniḍ/VP iṣeḥḥa/VP ./.
+azagur/ADV -is/PAN yesɛa/VP ticṛaḍ/ADV ./.
+azul/ADV ./. sarameɣ/VP tgerrzeḍ/VP ./.
+aεekki/ADV d/PREAL leḥya/NMC n/PP talsa/NMC ./.
+ansuf/ADV yes/PRP -wen/PAP ar/PRP uxxam/NMC ./.
+ass/NMC -a/PAN ,/, issaɣ/VP -itt/PSV udfel/NMC ./.
+atan/PRD da/CS ,/, aɣ-/PPV d/PREAL -d/PDS ittgabaṛ/VP ./.
+beṛka/ADV -yi/PSV seg/PRP leɛtab/NMC -ik/PAN !/!
+bezzaf/ADV ẓẓay/NMC uselkim/NMC -is/PAN ./.
+bnan/VP -as/PSV axxam/NMC d/PREAL tiwizi/NMC ./.
+bran/ADV i/PRL ṭṭbel/NMC deg/PRP waman/NMC ./.
+bren/VP ɣer/PRP tama/NMC taẓelmaṭ/NMC ./.
+bubben/INT -t/PADV yerna/VP acennef/ADV !/!
+buqlen/NMP -aneɣ/PAP ,/, rẓan/VP afan/ADV ./.
+cebḥen/NMC wussan/NMC n/PP tefsut/NMC ./.
+ciddeɣ/ADV ass/NMC -a/PAN asaɣur/ADV -iw/PAN ./.
+cqeṛṛeɣ/NMC -k/PAN ddu/VAI d/PREAL tidett/NMC !/!
+cukkeɣ/VPN mecɣulit/CS kunemt/VP ./.
+cukkeɣ/VPN tettwakellexemt/VP ./.
+d/PREAL acu/ADV i/PRL txeddmeḍ/VP ass/NMC -a/PAN ?/?
+d/PREAL acu/ADV yellan/VPPP gar/PRP -asent/PSV ?/?
+d/PREAL awezɣi/ADV ad/PRA t-/PPV id-/PDP tafeḍ/VAF ./.
+d/PREAL ayen/PRI ur/PRN nettili/VPPN yakk/ADV ./.
+d/PREAL nekk/PPA i/PRL yeččan/VPPP tiyita/NMC ./.
+d/PREAL nekk/PPA i/PRL yuɣen/VP abrid/NMC -a/PAN ./.
+d/PREAL rray/NMC -ik/PAN i/PRL ak-/PPV tt-/PPV igan/VAF !/!
+d/PREAL tawacult/NMC yesɛan/VPPP azal/NMC ./.
+d/PREAL tidet/NMC ,/, d/PREAL awal/NMC izaden/VP ./.
+d/PREAL winna/PRI i/PRL d-/PDP iwwin/VPAIP aman/NMC ./.
+dacu/ADV i/PRL d-/PDP tenniḍ/VP zgelli/PRN ?/?
+dayen/ADV ur/PRN k-/PRA uḥwaǧeɣ/VPN ara/PRN ./.
+ddemmar/CC ,/, d/PREAL aṭṭan/NMC uffir/VP ./.
+dehmiẓen/NMC kan/ADV widak/PRD nni/ADV !/!
+ikfa/VP ṭtbel/ADV ,/, ifra/VP wurar/NMC ./.
+ilaq/VP ad/PRA as-/PPV tiniḍ/VAF tidet/NMC ./.
+ilaq/VP ad/PRA ɛeddiɣ/VAF ad/PRA gneɣ/VAF ./.
+ilaq/VP ad/PRA ṛuḥeɣ/VAF ar/PRP uxxam/NMC ./.
+ilaq/VP ad/PRA tent-/PPV tissinemt/VAF ./.
+ilaq/VP -aɣ/PSV uɣella/NMC amaynut/NMC ./.
+ilaq/VP -iyi/PSV ad/PRA xedmeɣ/VAF kra/PRI ./.
+iles/NMC -is/PAN yeṭṭeḍ/VAIT tasedda/NMC !/!
+imuxx/NMC -iw/PAN yexreb/VP yexseṛ/VP ./.
+inzan/NMC weɛrit/VP i/PRL tsuqilt/NMC ./.
+iselman/VP ma/CS ulac/ADV aɣilif/NMC ./.
+isem/NMC -im/PAN ma/CS ulac/ADV aɣilif/NMC ?/?
+isem/NMC -is/PAN n/PP tidet/NMC d/PREAL lisa/NMC ./.
+issin/VP ugar/ADV ɣef/PRP firefox/ADV ./.
+izdeɣ/ADV ar/PRP yixef/NMC n/PP ubrid/NMC ./.
+izmer/VP ad/PRA kem-/PPV ineɣ/VAF ssem/NMC ./.
+izmer/VP ad/PRA ken-/PPV ineɣ/VAF ssem/NMC ./.
+iẓẓan/VP umi/ADV i/PRL zzin/VP yizan/VP ./.
+jbed/VP iman/NMC -ik/PAN ar/PRP deffir/PRP !/!
+katiya/VAI ,/, udem/NMC n/PP sbeɛtac/NMC ./.
+kker/VAI ,/, a/PLP mmi/NMC -s/PAN n/PP umaziɣ/NMC !/!
+kunwi/PPA tzeglem/VP tamacint/VP ./.
+layla/NMC tḥuss/VP tettwahmel/NMC ./.
+ldi/ADV allen/NMC -ik/PAN ad/PRA twaliḍ/VAF ./.
+ldi/ADV allen/NMC -im/PAN ad/PRA twaliḍ/VAF ./.
+ldi/NMC taxzant/VAIT s/PRP tsarut/NMC -a/PAN ./.
+ldiɣ/VP allen/NMC -iw/PAN ad/PRA waliɣ/VAF ./.
+lfeṭṭa/. xelḍen/VP -as/PSV aldun/ADV !/!
+llan/VP yid/PRP -k/PAP yimawlan/NMC -ik/PAN ?/?
+llaq/ADV ad/PRA d-/PDP tefkeḍ/VAF agmuḍ/ADV ./.
+ɛeddi/VAI -d/PDS ticki/ADV ar/PRP uxxam/NMC !/!
+els/ADV abernus/NMC ,/, d/PREAL asemmiḍ/ADV ./.
+ɛni/ADV ttbeccicent/VP tyuzaḍ/NMC ?/?
+ɛṛeḍ/? taččart/NMC tawurmant/VP ./.
+glan/VP yid/PRP -sen/PAP s/PRP ibeckaḍ/NMC ./.
+ɣuṛ/ADV wumi/ADV tensiḍ/VP iḍelli/ADV ?/?
+ɣur/PRP -k/PAP takarḍa/NMC n/PP umitṛu/NMC ?/?
+ḥader/VAI aqjun/ADV -nni/PADV yewεer/VP ./.
+ḥader/VAI aqjun/ADV -nni/PADV yuεren/VP ./.
+ḥemmeleɣ/PRP llatay/NMC n/PP llim/NMC ./.
+i/PRL neẓra/VP ,/, mazal/VP ad/PRA nẓer/VAF !/.
+iberreḥ/VP -d/PDS i/PRL at/ADV taddart/NMC ./.
+igerrez/VP mliḥ/ADV yinig/NMC -nni/PAN ./.
+iḥninet/VP -d/PDS fell/PRP -i/PAP ciṭuḥ/ADV ./.
+acuɣer/ADV i/PRL d-/PDP yusa/VP baba/NMC -m/PAN ?/?
+kečč/PPA tzegleḍ/VP tamacint/VP ./.
+kemm/PPA tzegleḍ/VP tamacint/VP ./.
+nekni/PPA nezgel/VP tamacint/VP ./.
+netta/PPA yezgel/VP tamacint/VP ./.
+nettan/VP izgel/VP tamacint/VP ./.
+nutni/PPA zeglen/VP tamacint/VP ./.
+ur/PRN tewwiḍ/VPN ara/PRN amḍiq/NMC -ik/PAN ./.
+ur/PRN wwin/VPN ara/PRN amḍiq/NMC -nsen/PAN ./.
+aɣlif/ADV n/PP tmerrit/ADV d/PREAL tinḍi/NMC
+aɣlif/ADV n/PP yiɣbula/NMC n/PP waman/NMC
+agraw/ADV asirem/NMC n/PP lezzayer/NMP
+agraw/ADV i/PRL yidles/NMC d/PREAL tugdut/NMC
+agraw/ADV n/PP yidles/NMC d/PREAL tugdut/NMC
+amussu/ADV aɣelnaw/NMC n/PP usirem/NMC
+amussu/ADV n/PP umtawa/NMC aɣelnaw/NMC
+asqamu/ADV unnig/NMC n/PP timmuzɣa/NMC
+tadukli/ADV i/PRL ugraw/VP aɣelnaw/NMC
+tasdawit/NMC hwari/VP bumedyen/PRI
+tasdawit/NMC muḥend/NMP bugerra/NMP
+tirni/NMC n/PP zzayer/NMP tamaynut/NMC
+taɛwint/NMC n/PP aɛli/ADJ u/CC brahim/ADV
+anamek/ADV n/PP usefru/NMC ilelli/VP ./.
+ad/PRA d-/PDP iwelli/VAF seg/PRP madrid/NMC ?/?
+ad/PRA d-/PDP yeqqel/VAF seg/PRP madrid/NMC ?/?
+tesliḍ/VP d/PREAL acu/ADV i/PRL d-/PDP tenna/VP ?/?
+sliman/NMP u/CC muḥ/NMP d/PREAL aderwic/NMC ./.
+sliman/NMP u/CC muḥ/NMP d/PREAL aɛeẓẓug/NMC ./.
+sliman/NMP u/CC muḥ/NMP d/PREAL aferḍas/NMC ./.
+sliman/NMP u/CC muḥ/NMP d/PREAL akanadi/NMC ./.
+yugurten/NMP u/CC muḥ/NMP isewway/VP ./.
+yugurten/NMP u/CC muḥ/NMP ixeṛṛef/VP ./.
+sliman/NMP u/CC muḥ/NMP yeṭṭeɛwec/VP ./.
+sliman/NMP u/CC muḥ/NMP yettɣenni/VP ./.
+ḥsen/NMP u/CC muḥ/NMP yuḍen/VP sskeṛ/VP ./.
+ur/PRN bɣiɣ/VP ara/PRN ad/PRA geɣ/VAF aya/PRD ./.
+ur/PRN ilaq/VPN ara/PRN ad/PRA geɣ/VAF aya/PRD ./.
+ur/PRN iyi-/PPV ttara/VPN ara/PRN aɣbel/PRN ./.
+ur/PRN tteg/VPN aɣilif/PRN ./. yeshel/VP ./.
+yebḍa/VP afus/NMC -is/PAN s/PRP ujenwi/NMC ./.
+yesla/VP i/PRL uydi/VP yesseglaf/VP ./.
+yessefk/VP ad/PRA ten-/PPV nxebbeṛ/VAF ./.
+yuɣal/VP wuccen/PRD d/PREAL akerraz/ADV ./.
+zemreɣ/VP ad/PRA awiɣ/VAF tummeẓt/NMC ?/?
+acimi/ADV i/PRL yugi/VP ad/PRA d-/PDP yas/VAF ?/?
+acimi/ADV ur/PRN telliḍ/VP ara/PRN da/CS ?/?
+ad/PRA ak-/PPV t-/PPV id-/PDP yawi/VAF azekka/ADV ./.
+ad/PRA ak-/PPV yanef/VAF ad/PRA tɛeddiḍ/VAF ./.
+ad/PRA am-/PPV t-/PPV id-/PDP yawi/VAF azekka/ADV ./.
+ad/PRA am-/PPV yanef/VAF ad/PRA tɛeddiḍ/VAF ./.
+ad/PRA as-/PPV t-/PPV id-/PDP yawi/VAF azekka/ADV ./.
+ad/PRA aɣ-/PPV t-/PPV id-/PDP yawi/VAF azekka/ADV ./.
+ad/PRA d-/PDP terreḍ/VAF ɣef/PRP kullec/NMC ./.
+ad/PRA iyi-/PPV yanef/VAF ad/PRA ɛeddiɣ/VAF ./.
+ad/PRA yawi/VAF yid/PRP -neɣ/PAP asurif/ADV ./.
+ad/PRA yuɣal/VP ad/PRA d-/PDP yemmekti/VP ./.
+aglaway/ADV d/PREAL aṭan/NMC n/PP tmiḍi/NMC ./.
+akal/NMC ṭṭfeɣ/INT -t/PSV s/PRP yiẓuran/NMC ./.
+aman/NMC yeswa/VP d/PREAL isemmaḍen/NMC ./.
+anida/ADV i/PRL tetteddud/VP akka/ADV ?/?
+anida/ADV i/PRL tettedduḍ/VP akka/ADV ?/?
+ansuf/ADV yis/PRP -k/PAP a/PLP yennayer/ADV ./.
+anwa/INT ara/PRPT iruḥen/VPPP azekka/ADV ?/?
+apapas/ADV yeččur/VP d/PREAL lecɣal/NMC ./.
+arrac/NMC ur/PRN rewwun/VPN turart/NMC ./.
+azekka/ADV ad/PRA hedreɣ/VAF i/PRP tom/VAIT ./.
+d/PREAL ayen/PRI ibanen/ADV am/CS yiṭij/VP ./.
+ddayxa/ADV ,/, tekreh/VP iman/NMC -is/PAN ./.
+dduklen/PREAL yiḍudan/NMC n/PP ufus/NMC ./.
+ddunit/NMC yečča/VP -tt/PSV lbaṭel/NMC ./.
+ferḥeɣ/NMC mi/CS ad/PRA waliɣ/VAF tom/NMC ./.
+fkiɣ/VP -asen/PSV umlan/NMC yelhan/VPPP ./.
+fkiɣ/VP -awen/PSV umlan/NMC yelhan/VPPP ./.
+hraw/ADV ubrid/NMC -nni/PAN agejdan/NMC ./.
+ilul/VP -d/PDS ,/, yedder/VP ,/, yemmut/VP ./.
+ini/VAI -as/PSV akk/ADV ayen/PRI yellan/VPPP ./.
+ini/VAI -as/PSV ma/CS ur/PRN yuḍin/VPN ara/PRN ./.
+inuda/PRP fell/PRP -as/PAP ,/, yufa/VP -tt/PSV ./.
+inuda/PRP fell/PRP -i/PAP ,/, yufa/VP -iyi/PSV ./.
+iteddu/VAIT di/PRP nneqma/NMC ./.
+iteddu/VAIT di/PRP nneqma/NMC ./.
+iwala/VP d/PREAL acu/ADV ara/PRPT yexdem/VAF ./.
+iɛedda/VP fell/PRP -as/PAP uzaylal/NMC ./.
+iḥar/NMC tom/NMC ad/PRA iwali/VAF mary/NMC ./.
+leɛmer/NMC i/PRL d-/PDP yenna/VP tidet/NMC ./.
+lsiɣ/PREAL abernus/NMC -iw/PAN ,/, ffɣeɣ/VAF ./.
+ma/CS yella/VP nebɣa/VP ,/, nezmer/VP ./.
+meqqer/NMC gar/PRP yimeqqranen/NMC ./.
+nedda/VAIT di/PRP nneqma/NMC ./.
+nedda/VAIT di/PRP nneqma/NMC ./.
+nerra/VP -tent/PSV deg/PRP uɛewwiq/NMC ./.
+nettarra/NMC -k/PAN deg/PRP uɛewwiq/NMC ./.
+nteddu/VAIT di/PRP nneqma/NMC ./.
+nteddu/VAIT di/PRP nneqma/NMC ./.
+rezfeɣ/VAIT s/PRP axxam/NMC n/PP jeddi/NMC ./.
+tafellaḥt/NMC -is/PAN d/PREAL tukarḍa/NMC ./.
+tedda/VP di/PRP nneqma/NMC ./.
+tedda/VP di/PRP nneqma/NMC ./.
+teddam/ADV -asent/PSV di/PRP nneqma/NMC ./.
+teddamt/NMC -asen/PAN di/PRP nneqma/NMC ./.
+teddiḍ/VP -asent/PSV di/PRP nneqma/NMC ./.
+tedduɣ/ADV -asent/PSV di/PRP nneqma/NMC ./.
+tedduɣ/NMC di/PRP nneqma/NMC ./.
+tekfel/VP -d/PDS ddeɛwessu/NMP -nni/PAN ./.
+terra/VP -t/PSV tmara/NMC ad/PRA yinig/NMC ./.
+terram/VP -iyi/PSV deg/PRP uɛewwiq/NMC ./.
+terram/NMC -ten/PSV deg/PRP uɛewwiq/NMC ./.
+terriḍ/VP -iyi/PSV deg/PRP uɛewwiq/NMC ./.
+terriḍ/NMC -ten/PSV deg/PRP uɛewwiq/NMC ./.
+teswa/NMC afenǧal/NMC n/PP lqahwa/NMC ./.
+teẓẓgeɣ/ADV ,/, issedaw/VP rabaḥ/VP ./.
+tiriza/VP d/PREAL isem/NMC apurtugi/ADV ./.
+tom/NMC ixeddem/VPAIP ayen/PRI yebɣa/VP ./.
+ttarraɣ/NMC -tt/PAN deg/PRP uɛewwiq/NMC ./.
+ttkel/NMC kan/ADV ɣef/PRP yiman/NMC -ik/PAN ./.
+tudert/NMC ur/PRN tessuruf/VPN ara/PRN ./.
+tura/ADV kullec/PRI ad/PRA ifezzeɛ/VAF !/.
+tzeggen/VP tqerɛet/VP d/PREAL aman/NMC ./.
+ufiɣ/VP -t/PSV yetturar/VAIT ddabax/VP ./.
+ulac/ADV am/CS zzit/NMC n/PP uzemmur/NMC ./.
+ulac/ADV ameddakel/ADV am/CS uydi/VP ./.
+ur/PRN akent-/PPV t-/PPV ttakkeɣ/VPAIN ara/PRN ./.
+ur/PRN asent/INT -t/PSV ara/PRN ./.
+ur/PRN bɣiɣ/VP ara/PRN ad/PRA d-/PDP laleɣ/VAF ./.
+ur/PRN k-/PRA yettawi/VAIT ara/PRN yid/PRP -s/PAP ./.
+ur/PRN t-/PPV yettawi/VAIT ara/PRN yid/PRP -s/PAP ./.
+ur/PRN teḅɣi/VPN ara/PRN mi/CS i/PRL iruḥ/VP ./.
+ur/PRN tufiḍ/VPN d/PREAL acu/ADV i/PRL yugad/VP ./.
+ur/PRN yebɣi/VPN ara/PRN ad/PRA yemmet/VAF ./.
+uriɣ/VP ma/CS d/PREAL kra/PRI n/PP tefyar/NMC ./.
+wa/PRD ijebbed/VAIT ,/, wa/PRD ikerref/VP ./.
+wa/PRD ireffed/CC ,/, wa/PRD yesrusu/VP ./.
+wa/PRD izerreε/ADV ,/, wa/PRD imegger/VP ./.
+wa/PRD yennejla/ADV ,/, wa/PRD yeqqim/VP ./.
+wa/PRD yettak/VP ,/, wa/PRD yessutur/VAIT ./.
+wa/PRD yettru/VAIT ,/, wa/PRD yettaḍṣa/VP ./.
+win/PRD ur/PRN d-/PDP nenṭiq/VPN yeqbel/VAF ./.
+wissen/ADV acimi/ADV ur/PRN d-/PDP tusi/VPN ./.
+wissen/ADV d/PREAL acu/ADV i/PRL d-/PDP yenna/VP ?/?
+wissen/ADV ma/CS tḍeɛfeḍ/VP cwiṭ/NMC ?/?
+wwten/INT -t/PADV almi/CS i/PRL d-/PDP yenna/VP ./.
+xedmen/VPPP deg/PRP -neɣ/PAP axessar/NMC ./.
+yedda/VP di/PRP nneqma/NMC ./.
+yedda/VP di/PRP nneqma/NMC ./.
+yeffeɣ/VP s/PRP tuffra/NMC iḍelli/ADV ./.
+yeldi/VAF adlis/NMC -is/PAN ad/PRA iɣer/VAF ./.
+yella/VP kra/PRI i/PRL am-/PPV d-/PDP yefka/VAF ?/?
+yerzef/VP ɣer/PRP yimawlan/NMC -is/PAN ./.
+yessen/VP -it/PSV akken/CS i/PRL ilaq/VP ./.
+yesteḥq/VP umuḍin/NMC asgunfu/ADV ./.
+yeswa/VP tom/NMC lkas/NMC n/PP ccrab/NMC ./.
+yeswa/VP afenǧal/ADV n/PP uyefki/NMC ./.
+yeswa/VP tabyirt/VP mi/CS yefud/VP ./.
+yettxemmim/VAIT kan/ADV fell/PRP -as/PAP ./.
+yufa/VP asebbaḍ/ADV i/PRL uḍar/VP -is/PAN ./.
+yundi/VP -as/PSV ,/, yeṭṭef/VP -it/PSV -id/PDS ./.
+yunef/VP -asent/PSV ad/PRA ɛeddint/VAF ./.
+yuɣ/VP -iyi/PSV -d/PDS baba/NMC aserwal/ADV ./.
+ɣur/PRP -i/PAP tif/PRD akk/ADV tutlayin/NMC ./.
+ẓẓebra/VP ẓẓayet/NMP ,/, d/PREAL uzzal/NMC ./.
+tettemsefhamemt/NMC yid/PRP -sen/PAP ?/?
+tettemsefhamem/NMC yid/PRP -sent/PAP ?/?
+tettemsefhameḍ/VP yid/PRP -sent/PAP ?/?
+zemrent/VP i/PRL usemmiḍ/NMC am/CS wa/PRD ?/?
+tzemrem/VP i/PRL usemmiḍ/NMC am/CS wa/PRD ?/?
+tzemreḍ/VP i/PRL usemmiḍ/NMC am/CS wa/PRD ?/?
+ɛni/NMC tettarumt/ADV deg/PRP ṭṭlam/NMC ?/?
+tettḥibbimt/NMC ad/PRA teffɣemt/VAF ?/?
+ad/PRA tawimt/VAF cwiṭ/NMC yid/PRP -kent/PAP ?/?
+berzent/PSV -d/PDS taxxamt/NMC -nsent/PAN ?/?
+tessared/VP akk/ADV leqlud/NMC -nni/PAN ?/?
+yessared/VP akk/ADV leqlud/NMC -nni/PAN ?/?
+tsefḍemt/VP akk/ADV leḥyuḍ/NMC -nni/PAN ?/?
+tezmer/VP ad/PRA texdem/VAF weḥd/ADV -s/PAP ?/?
+yezmer/VP ad/PRA yexdem/VAF weḥd/ADV -s/PAP ?/?
+tessen/VP ad/PRA texdem/VAF kullec/NMC ?/?
+yessen/VP ad/PRA yexdem/VAF kullec/NMC ?/?
+ahat/ADV tebɣiḍ/VP ad/PRA d-/PDP terreḍ/VAF ?/?
+ahat/ADV tebɣam/VP ad/PRA d-/PDP terrem/VS ?/?
+d/PREAL acu/ADV i/PRL kent-/PPV yuɣen/VPPP akka/ADV ?/?
+ixuṣ/VP -iken/PSV aɛeqqa/NMC n/PP sser/NMC !/!
+ixuṣ/PRP aɛeqqa/NMC n/PP sser/NMC !/!
+bɣiɣ/VP ad/PRA teɣṛem/VAF tabrat/NMC -a/PAN ./.
+bɣiɣ/VP ad/PRA teɣṛeḍ/VAF tabrat/NMC -a/PAN ./.
+ur/PRN ttmeslayet/VPN ara/PRN yid/PRP -s/PAP ./.
+ur/PRN ttmeslayet/VPN ara/PRN yid/PRP -i/PAP ./.
+ur/PRN ttmeslay/VPN ara/PRN yid/PRP -sen/PAP ./.
+ur/PRN heddṛemt/VPN ara/PRN yid/PRP -sen/PAP ./.
+ur/PRN heddṛet/VPN ara/PRN yid/PRP -sent/PAP ./.
+ur/PRN ttɣimit/VPN ara/PRN yid/PRP -sent/PAP ./.
+ur/PRN ttɣimimt/VPN ara/PRN yid/PRP -sen/PAP ./.
+tban/VAF tuzert/NMC ɣef/PRP udem/NMC -im/PAN ./.
+tban/VAF tuzert/NMC ɣef/PRP udem/NMC -ik/PAN ./.
+dhumt/CC kan/ADV d/PREAL yiman/NMC -nkent/PAN ./.
+xezzṛet/NMC kan/ADV agejdur/NMC -agi/PAN ./.
+ad/PRA d-/PDP gezmen/VP tamtunt/VP -nni/PAN ?/?
+ad/PRA d-/PDP gezmem/VAF tamtunt/ADV -nni/PADV ?/?
+ad/PRA d-/PDP gezmeḍ/VAF tamtunt/ADV -nni/PADV ?/?
+ad/PRA d-/PDP gezmeɣ/VAF tamtunt/ADV -nni/PADV ?/?
+dayen/ADV tbeɛɛdemt/ADV i/PRL tlufa/ADV ?/?
+ad/PRA iyi-/PPV tawim/VAF ɣer/PRP sbiṭaṛ/NMC ?/?
+ad/PRA iyi-/PPV tawiḍ/VAF ɣer/PRP sbiṭaṛ/NMC ?/?
+yenɣes/VP usemmiḍ/NMC ɣur/PRP -kent/PAP ?/?
+d/PREAL acu/ADV i/PRL d-/PDP snulfamt/VP akka/ADV ?/?
+jeddi/NMC -m/PAN mazal/VP -it/PSV yehlek/NMC ?/?
+jeddi/NMC -k/PAN mazal/VP -it/PSV yehlek/NMC ?/?
+baba/NMC -twen/PAN ur/PRN t-/PPV yuɣ/VP wara/PRN ?/?
+teddmem/NMC -n/PAN leḥwayeǧ/ADV -nwen/PAN ?/?
+anda/ADV i/PRL llan/VP warraw/NMC -nwen/PAN ?/?
+ɛni/? ṛṛẓiɣ/? -am/PAP aqeṛṛu/ADV ?/?
+ɛni/ADV ṛṛẓiɣ/? -ak/PAP aqeṛṛu/ADV ?/?
+acḥal/ADV ur/PRN ḍsin/VPN am/CS wass/NMC -a/PAN ./.
+acku/CS tella/VP tḥerci/VP deg/PRP -s/PAP ./.
+acku/CS tuget/ADV n/PP tiziwin/NMC -iw/PAN ./.
+ad/PRA d-/PDP yerr/VAF lḥeq/ADV i/PRL bab/NMC -is/PAN ./.
+ad/PRA iɛawen/VAF win/PRD ur/PRN nezmir/VPN ./.
+ad/PRA ixdem/VP deg/PRP -s/PAP i/PRL yebɣan/VP ./.
+ad/PRA iyi-/PPV teffeɣ/VAF ɣer/PRP yiger/NMC ./.
+ad/PRA k-/PRA d-/PDP cḍeḥ/VAF s/PRP teqbaylit/NMC ./.
+ad/PRA mmeslayen/VAF akken/CS bɣan/VP ./.
+ad/PRA s-/PPV laɛin/VAF i/PRL dda/NMC brahem/NMC ./.
+ad/PRA s-/PPV tehder/VP mebla/ADV aɣbel/PRN ./.
+ad/PRA tkemmleḍ/VAF ayen/PRI tebdiḍ/ADV ./.
+ad/PRA tt-/PPV textireḍ/VAF s/PRP laɛqel/NMC ./.
+akken/ADV i/PRL d-/PDP hwan/VAIT deg/PRP lkar/NMC ./.
+akken/CS iyi-/PPV teǧǧiḍ/VP zgelli/ADV ./.
+ala/ADV ur/PRN d-/PDP qsideɣ/VPN ara/PRN aya/PRD !/!
+am/CS wakken/CS yefka/VP -as/PSV rray/VP ./.
+am/CS yizimer/VP gar/PRP wuccanen/NMC ./.
+anda/ADV i/PRL am-/PPV yehwa/VP ɣer/PRP din/ADV ./.
+a/PLP -t/PSV ak-/PPV rrent/VAF tselbeḍ/ADV ./.
+a/PLP -t/PSV deg/PRP uxxam/NMC n/PP sima/NMC ./.
+a/PLP -t/PSV tezdeɣ/NMC -it/PSV tsusmi/NMC ./.
+a/PLP -t/PSV yenquqel/VPPP lsas/NMC -iw/PAN ./.
+awi/VAI -d/PDS uṭṭunen/NMC n/PP tilifun/NMC ./.
+ayen/PRI tettaf/VAIT deg/PRP ungalen/NMC ./.
+d/PREAL acu/ADV kan/ADV dima/PREAL ixus/VP kra/PRI ./.
+d/PREAL aqemmuc/ADV i/PRL t-/PPV id-/PDP yennan/VPPP ./.
+d/PREAL awezɣi/NMC irfed/PRP allen/NMC -is/PAN ./.
+d/PREAL ayen/PRI tewwi/VPPP -yaɣ/PRP ddunit/NMC ./.
+d/PREAL lxir/NMC i/PRL ak-/PPV m-/PPV id-/PDP yewwin/VPPN ?/?
+d/PREAL sseḥ/NMP xedmeɣ/PPV iyi-/PPV ihwan/VPAIP ./.
+d/PREAL tayi/PRI i/PRP tudert/NMC n/PP maziɣ/NMP ./.
+da/CS kan/ADV i/PRL ttafeɣ/VAIT lebɣi/NMC -w/PAN ./.
+deg/PRP wallaɣ/NMC -is/PAN i/PRL d-/PDP yeɣli/VP ./.
+dɣa/CS teffeɣ/VAF -d/PDS ɣer/PRP tilawt/NMC ./.
+din/ADV kan/ADV i/PRL tettaf/VAIT talwit/NMC ./.
+ffkan/PREAL lebɣi/NMC i/PRL rray/PRI -nsen/PAN ./.
+iɛawen/VP -itt/PSV -id/PSV deg/PRP ccɣel/NMC ./.
+ihi/CS nekki/NMC ur/PRN ssineɣ/VPN ara/PRN ?/?
+ireqqem/ADV -itt/PSV akken/CS iwata/ADV ./.
+ixxamen/INT neɣ/CC tikkerrusin/VP ./.
+kulec/PRI iḥebbes/VP lawan/NMC -nni/PAN ./.
+lḥasun/NMC ur/PRN ttaǧǧan/VAIT amkan/NMC ./.
+lutu/CS ur/PRN k-/PRA d-/PDP ittak/VAF yiwen/NC ./.
+ma/CS d/PREAL leḥzen/NMC ur/PRN tettaraḍ/VPN ./.
+ma/CS yella/VP ur/PRN tkemlem/VPN ara/PRN ./.
+maca/CS ireggel/VP akk/ADV i/PRL waya/PRD ./.
+maca/CS yettak/VP -asen/PSV -d/PDS afud/NMC ./.
+maziɣ/NMP d/PREAL amedya/NMC gar/PRP -asen/PAP ./.
+maziɣ/NMP d/PREAL massi/NMC ttimɣuren/VP ./.
+maziɣ/NMP icɛel/VP amikru/ADV -ines/PAN ./.
+maziɣ/NMP mi/CS yewweḍ/VP s/PRP axxam/NMC ./.
+mi/CS d-/PDP teffeɣ/VAF seg/PRP ulmessi/NMC ./.
+mi/CS yewweḍ/VP ɣer/PRP temkerḍit/NMC ./.
+neɣ/CC ɣef/PRP wacu/INT ara/PRPT hedren/VP ./.
+nekk/PPA imiren/ADV i/PRL ttkemileɣ/VP ./.
+nekk/PPA leɛmer/NMC jerbeɣ/VP tigi/PRD ./.
+netta/PPA yebra/ADV i/PRL wallen/NMC -is/PAN ./.
+qqedmen/VP -d/PDS akken/CS ad/PRA ččen/VAF ./.
+sakken/CS yeldi/VAF -d/PDS allen/NMC -is/PAN ./.
+sḥusseɣ/? snesreɣ/PSV -d/PDS syina/NMC ./.
+sima/NMC tekcem/VAF ɣer/PRP tnawalt/NMC ./.
+sima/NMC tettqerrib/NMC kra/PRI kra/PRI ./.
+sima/NMC ur/PRN as-/PPV d-/PDP yuli/VP awawl/ADV ./.
+simmal/CS yettɛedday/VP lweqt/NMC ./.
+ssawḍeɣ/PRP -ak/PAP -d/PDS iɣeblan/NMC -iw/PAN ./.
+taceqquft/NMC qrib/ADV ad/PRA tebdu/VAF ./.
+taselmadt/NMC teqqim/VP sdat/PRP -s/PAP ./.
+tebɣa/NMC ad/PRA teqqim/VAF iman/NMC -is/PAN ./.
+teḍra/VP yid/PRP -wen/PAP am/CS tzizwa/NMC ./.
+teffeɣ/VAF talsa/NMC ɣur/PRP medden/NMC ./.
+teffeɣ/VAF -d/PDS berra/ADV i/PRL tzeqqa/NMC ./.
+tefka/VP lqima/NMC i/PRP tlelli/NMC -is/PAN ./.
+tefka/VP -yas/PSV -tt/PSV -id/PDS i/PRP maziɣ/NMP ./.
+teɣli/VP -d/PDS tsusmi/NMC gar/PRP -asen/PAP ./.
+tekcem/VAF akken/CS tuɣ/VP tanumi/VP ./.
+tesɛa/VP axxam/NMC deg/PRP temdint/NMC ./.
+tettɛumu/NMC daxel/PRP n/PP tsekla/NMC ./.
+tidak/NMC msakit/CS ddrent/VP kan/ADV ./.
+tikkelt/NMC -nniḍen/PAN ad/PRA teɣli/VAF ./.
+tilemẓit/NMC tebda/VP tḥekku/PSV -d/PDS ./.
+timuɣliwin/NMC -is/PAN rḥant/VAIT -iyi/PSV ./.
+tiwwura/NMC n/PP rrbeḥ/NMC d/PREAL sɛaya/NMC ./.
+tjerreb/PRD akk/ADV ayen/PRI tennum/ADV ./.
+uɣalen/VP heddren/PSV s/PRP wallen/NMC ./.
+ula/ADV mi/CS ara/PRPT tfak/VP temsirt/VP ./.
+ulamma/CS sdaxel/NMC n/PP tneɣrit/NMC ./.
+ur/PRN bɣiɣ/VP ara/PRN ad/PRA ttwaqneɣ/VAF ./.
+ur/PRN heddren/VPN ara/PRN gar/PRP -asen/PAP ./.
+ur/PRN iyi-/PPV d-/PDP yuli/VP ara/PRN wawal/NMC ./.
+ur/PRN tt-/PPV id-/PDP yuli/VP ara/PRN wawal/NMC ./.
+ur/PRN yekcim/VPN ara/PRN ɣer/PRP daxel/PRP ./.
+wwḍen/VP -d/PDS imddukal/NMC -nniḍen/PAN ./.
+yal/DET amdan/NMC yesɛa/VP azal/NMC -is/PAN ./.
+yal/DET yiwen/NC d/PREAL acu/ADV ixeddem/VPAIP ./.
+yeɛmeq/VP lbir/NMC anda/ADV tekcem/VAF ./.
+yeɛweq/VP d/PREAL acu/ADV ara/PRPT d-/PDP yini/VAF ./.
+yerna/VP bɣiɣ/VP akem-/PPV steqsiɣ/VAF ./.
+yerna/VP ddunit/NMC tettkemmil/VP ./.
+yerna/VP ur/PRN ndimeɣ/VPN ɣef/PRP kra/PRI ./.
+yerra/VP -iyi/PSV d/PREAL tameṭṭut/NMC -is/PAN ./.
+yettaɛar/VP ad/PRA d-/PDP yeɣli/VP yiḍ/NMC ./.
+yettaf/VAIT -as/PSV -d/PDS dima/NMC tifrat/NMC ./.
+yettak/VP -asent/PSV azal/NMC -nsent/PAN ./.
+yettawi/VAIT -as/PSV -d/PDS ala/ADV leqriḥ/NMC ./.
+yexdem/VAF am/CS nekk/PPA neɣ/CC axir/ADV !/!
+yuɛer/VP fell/PRP -as/PAP ad/PRA tefhem/VAF ./.
+yufa/VP tayet/NMC uɣur/ADV isenned/VP ./.
+zgan/VP ttḥewwisen/VP ad/PRA ẓren/VAF ./.
+ziɣen/NMC yeɣleḍ/VAIT deg/PRP leḥsab/NMC ./.
+zwaǧ/VP lkaɣeḍ/NMC uma/NMC sriɣ/VP -as/PSV ./.
+d/PREAL yessi/NMC -k/PAN tigi/PRD ,/, a/PLP yidir/VAF ?/?
+ẓriɣ/VP aql/VP -ik/PSV da/CS ,/, a/PLP yidir/VAF ./.
+yidir/VAF d/PREAL aḥeddad/NMP n/PP wawal/NMC ./.
+d/PREAL ṣṣwab/PRI i/PRL d-/PDP yenna/VP yidir/VAF ./.
+ur/PRN yeswi/VPN tibṣelt/PRN yerkan/ADV !/!
+ulac/ADV win/PRD ara/PRPT t-/VPA iṣebbren/VP ./.
+ur/PRN ttrut/VPN ara/PRN fell/PRP -asent/PSV ./.
+amek/ADV ara/PRPT teḍru/VP yid/PRP -sent/PAP ?/?
+yebra/ADV i/PRL ṭṭbel/NMC deg/PRP waman/NMC ./.
+yuɣ/VP -d/PDS ddwa/NMC n/PP yiɣerdayen/NMC ./.
+ur/PRN asen-/PPV d-/PDP teǧǧiḍ/VAF acemma/ADV ./.
+sliman/NMP ur/PRN yesteɛfay/VPN ara/PRN ./.
+ur/PRN ssineɣ/VPN ara/PRN ad/PRA nehreɣ/VAF ./.
+melmi/ADV i/PRL tebdamt/VP tanhert/NMC ?/?
+werǧin/CS nehreɣ/VP takerrust/VP ./.
+acimi/ADV lehdur/NMC -agi/PAN imerka/ADV ?/?
+ttif/VP ɛawaz/NMC ,/, yir/ADJ asummet/ADV ./.
+cqan/VP -iyi/PSV medden/NMC ma/CS nnan/VAIT ./.
+ur/PRN ttneẓma/VPN ara/PRN i/PRP uzekka/NMC ./.
+uɣeɣ/NMC -as/PSV -d/PDS aserwal/ADV i/PRL mmi/NMC ./.
+ur/PRN tettxemmimeḍ/VPN ara/PRN 
